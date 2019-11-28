@@ -3,7 +3,7 @@ return array(
     'DEBUG_PAGE'=>false,
     'REWRITE'=>false,//伪静态规则
 
-    'DOMAIN_NAME' => 'http://bbs.pywx.cc',
+    'DOMAIN_NAME' => 'http://bbs.pywx.com',
 
     'url_suffix'=>'.html',
     'url_explode'=>'/',
@@ -30,7 +30,7 @@ return array(
     //数据库名称
     "SQL_NAME" => "pywx",
     //数据库地址
-    "SQL_IP"=>"localhost",
+    "SQL_IP"=>"192.168.0.230",
     //数据库账号
     'SQL_USER' => 'root',
     //数据密码

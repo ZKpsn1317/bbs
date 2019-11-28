@@ -72,8 +72,8 @@
 <footer>
     <div class="container">
         <div class="version">
-            <p>HYBBS © 2016. All Rights Reserved. <a href="{#WWW}">{$conf.logo}</a> </p>
-            <p>Powered by <a href="http://bbs.hyphp.cn/">HYBBS</a> Version {#HYBBS_V}</p>
+            <p>All Rights Reserved. <a href="{#WWW}">{$conf.logo}</a> </p>
+            <p>Powered by <a href="http://jzhxwl.com/">华迅网络</a> Version {#HYBBS_V}</p>
             {if view_form('hybbs','show_sleep')}
             <p>Runtime:<?php echo number_format(microtime(1) - $GLOBALS['START_TIME'], 4); ?>s Mem:<?php echo round((memory_get_usage() - $GLOBALS['START_MEMORY'])/1024); ?>Kb</p>
             {/if}
