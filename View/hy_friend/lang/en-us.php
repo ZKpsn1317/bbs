@@ -1,7 +1,7 @@
 <?php
 return array(
 	'个人中心'=>'My Center',
-	'退出账号'=>'Logout',
+	//'退出账号'=>'Logout',
 	'清空未读'=>'Clear Msg',
 	'管理后台'=>'Admin',
 	'关注列表'=>'Follow List',

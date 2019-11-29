@@ -32,7 +32,7 @@
 		<div class="box">
 			<button onclick="$('.container').toggleClass('a');" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
 			
-			<p class="title"><a href="{#WWW}">HYBBS</a></p>
+			<p class="title"><a href="{#WWW}">平遥煤化</a></p>
 
 			<form method="get" onsubmit="return search(this);">
 			<div class="search-input">
